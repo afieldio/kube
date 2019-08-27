@@ -1,10 +1,10 @@
-##Overview
+## Overview
 Running a NooElec rtl-sdr
 Dump1090 processes data
 Outputs to json files
 These could be posted to a separate server for access
 
-##Todo
+## Todo
 Need to get this running on the Pi.
 Should then be able to post the files regularly to another server for consumption
 
@@ -18,7 +18,7 @@ Need to source other data
 	* Flightaware
 
 
-##Key Links
+## Key Links
 Main info from here - https://www.rtl-sdr.com/
 
 Various forks of the DUMP1090 software that interprets / manages the data
@@ -29,7 +29,7 @@ https://github.com/flightaware/dump1090
 https://www.developer.aero/
 
 
-##Files
+## Files
 airline_code_countries.csv
 - can be used to map the output from the aircraft.json / history files with the name of the airline operating them
 - anything not on this list is probably not worthy of worrying about too much
@@ -73,5 +73,5 @@ history
 --write-json-every <t>   Write json output every t seconds (default 1)
 
 
-##Server
+## Server
 dump1090 does have an internal server but not entirely sure this would work very well
