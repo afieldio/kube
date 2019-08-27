@@ -1,0 +1,15 @@
+{ "now" : 1566891788.1,
+  "messages" : 1932,
+  "aircraft" : [
+    {"hex":"3986e7","mlat":[],"tisb":[],"messages":2,"seen":55.7,"rssi":-41.4},
+    {"hex":"484b92","squawk":"1065","altitude":36000,"vert_rate":-64,"track":347,"speed":487,"mlat":[],"tisb":[],"messages":92,"seen":24.3,"rssi":-32.7},
+    {"hex":"342106","mlat":[],"tisb":[],"messages":59,"seen":72.5,"rssi":-33.4},
+    {"hex":"c0404e","squawk":"2036","mlat":[],"tisb":[],"messages":131,"seen":27.3,"rssi":-34.4},
+    {"hex":"396309","mlat":[],"tisb":[],"messages":9,"seen":115.5,"rssi":-31.2},
+    {"hex":"406471","squawk":"5222","flight":"TOM2BW  ","lat":44.148746,"lon":1.705954,"nucp":7,"seen_pos":23.0,"altitude":37000,"vert_rate":0,"track":173,"speed":409,"category":"A0","mlat":[],"tisb":[],"messages":351,"seen":0.1,"rssi":-32.5},
+    {"hex":"3950c0","mlat":[],"tisb":[],"messages":6,"seen":114.6,"rssi":-32.4},
+    {"hex":"4076dd","squawk":"2216","mlat":[],"tisb":[],"messages":120,"seen":41.0,"rssi":-34.1},
+    {"hex":"4ca9eb","lat":44.025650,"lon":0.852207,"nucp":5,"seen_pos":13.3,"altitude":37000,"vert_rate":0,"track":174,"speed":405,"mlat":[],"tisb":[],"messages":1114,"seen":13.2,"rssi":-30.3},
+    {"hex":"400755","squawk":"2006","altitude":39000,"mlat":[],"tisb":[],"messages":48,"seen":32.2,"rssi":-34.5}
+  ]
+}

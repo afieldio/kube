@@ -1,0 +1,14 @@
+{ "now" : 1566891698.0,
+  "messages" : 1048,
+  "aircraft" : [
+    {"hex":"484b92","altitude":36000,"mlat":[],"tisb":[],"messages":4,"seen":1.4,"rssi":-36.1},
+    {"hex":"342106","squawk":"2306","altitude":32000,"vert_rate":-64,"track":53,"speed":462,"mlat":[],"tisb":[],"messages":43,"seen":0.1,"rssi":-31.4},
+    {"hex":"c0404e","squawk":"2036","lat":44.528100,"lon":1.735304,"nucp":7,"seen_pos":0.4,"altitude":37000,"vert_rate":0,"track":165,"speed":415,"mlat":[],"tisb":[],"messages":68,"seen":0.2,"rssi":-30.3},
+    {"hex":"396309","altitude":3200,"mlat":[],"tisb":[],"messages":9,"seen":25.3,"rssi":-31.2},
+    {"hex":"406471","squawk":"5222","altitude":37000,"vert_rate":0,"track":173,"speed":407,"mlat":[],"tisb":[],"messages":85,"seen":4.4,"rssi":-31.6},
+    {"hex":"3950c0","squawk":"1000","flight":"AFR39LN ","altitude":12000,"category":"A0","mlat":[],"tisb":[],"messages":6,"seen":24.5,"rssi":-32.4},
+    {"hex":"4076dd","squawk":"2216","flight":"EXS555  ","altitude":35000,"vert_rate":64,"track":172,"speed":426,"category":"A0","mlat":[],"tisb":[],"messages":71,"seen":0.3,"rssi":-30.8},
+    {"hex":"4ca9eb","squawk":"0537","flight":"RYR4KT  ","lat":44.173874,"lon":0.829915,"nucp":6,"seen_pos":2.7,"altitude":37000,"vert_rate":0,"track":174,"speed":407,"category":"A3","mlat":[],"tisb":[],"messages":732,"seen":0.3,"rssi":-26.6},
+    {"hex":"400755","squawk":"2006","altitude":39000,"mlat":[],"tisb":[],"messages":30,"seen":51.3,"rssi":-33.1}
+  ]
+}

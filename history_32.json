@@ -1,0 +1,28 @@
+{ "now" : 1566892599.2,
+  "messages" : 25282,
+  "aircraft" : [
+    {"hex":"4ca97d","mlat":[],"tisb":[],"messages":2,"seen":3.4,"rssi":-38.0},
+    {"hex":"4067f7","altitude":40975,"mlat":[],"tisb":[],"messages":6,"seen":5.6,"rssi":-34.8},
+    {"hex":"ab80f4","squawk":"6331","altitude":31000,"mlat":[],"tisb":[],"messages":7,"seen":27.3,"rssi":-33.3},
+    {"hex":"0d0bb8","squawk":"2337","altitude":10850,"mlat":[],"tisb":[],"messages":15,"seen":0.1,"rssi":-31.4},
+    {"hex":"ab1d30","squawk":"1170","flight":"DAL444  ","lat":45.486657,"lon":2.436687,"nucp":7,"seen_pos":14.3,"altitude":40000,"vert_rate":0,"track":115,"speed":476,"category":"A5","mlat":[],"tisb":[],"messages":89,"seen":0.4,"rssi":-30.4},
+    {"hex":"440040","altitude":34000,"mlat":[],"tisb":[],"messages":15,"seen":7.0,"rssi":-34.1},
+    {"hex":"4076e3","squawk":"6337","flight":"BAW2DP  ","lat":44.813461,"lon":1.604592,"nucp":7,"seen_pos":2.2,"altitude":19250,"vert_rate":-1600,"track":169,"speed":360,"category":"A3","mlat":[],"tisb":[],"messages":207,"seen":0.2,"rssi":-27.7},
+    {"hex":"4070ee","squawk":"2222","flight":"EXS98CQ ","lat":44.678883,"lon":1.673338,"nucp":7,"seen_pos":22.1,"altitude":37000,"vert_rate":0,"track":170,"speed":407,"category":"A3","mlat":[],"tisb":[],"messages":679,"seen":0.3,"rssi":-29.3},
+    {"hex":"3e4082","altitude":36000,"mlat":[],"tisb":[],"messages":235,"seen":0.3,"rssi":-34.9},
+    {"hex":"0a0084","altitude":38975,"mlat":[],"tisb":[],"messages":136,"seen":19.6,"rssi":-34.7},
+    {"hex":"394a63","mlat":[],"tisb":[],"messages":61,"seen":245.2,"rssi":-31.2},
+    {"hex":"45d963","mlat":[],"tisb":[],"messages":3,"seen":171.2,"rssi":-38.7},
+    {"hex":"40751c","squawk":"5356","altitude":38000,"vert_rate":0,"track":345,"speed":453,"mlat":[],"tisb":[],"messages":199,"seen":2.6,"rssi":-33.1},
+    {"hex":"394c0e","mlat":[],"tisb":[],"messages":1915,"seen":163.7,"rssi":-30.7},
+    {"hex":"4b1a40","squawk":"1000","flight":"EZS69AL ","altitude":38000,"vert_rate":0,"track":49,"speed":472,"mlat":[],"tisb":[],"messages":281,"seen":0.0,"rssi":-29.6},
+    {"hex":"4ca570","squawk":"6343","lat":44.358976,"lon":1.731552,"nucp":5,"seen_pos":30.1,"altitude":14150,"vert_rate":-1792,"track":169,"speed":309,"mlat":[],"tisb":[],"messages":2287,"seen":1.1,"rssi":-31.6},
+    {"hex":"406d27","squawk":"2205","altitude":41000,"vert_rate":0,"track":171,"speed":460,"mlat":[],"tisb":[],"messages":2656,"seen":35.0,"rssi":-31.6},
+    {"hex":"4841aa","mlat":[],"tisb":[],"messages":2625,"seen":97.6,"rssi":-33.7},
+    {"hex":"3964f7","squawk":"1057","altitude":36000,"vert_rate":0,"track":357,"speed":485,"mlat":[],"tisb":[],"messages":4185,"seen":7.5,"rssi":-32.7},
+    {"hex":"34250a","mlat":[],"tisb":[],"messages":369,"seen":85.4,"rssi":-32.8},
+    {"hex":"440248","mlat":[],"tisb":[],"messages":401,"seen":228.8,"rssi":-33.9},
+    {"hex":"4068b6","altitude":35025,"mlat":[],"tisb":[],"messages":947,"seen":47.0,"rssi":-33.4},
+    {"hex":"4076dd","mlat":[],"tisb":[],"messages":698,"seen":259.5,"rssi":-34.5}
+  ]
+}

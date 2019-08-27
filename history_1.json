@@ -1,0 +1,11 @@
+{ "now" : 1566891668.0,
+  "messages" : 499,
+  "aircraft" : [
+    {"hex":"396309","altitude":3225,"mlat":[],"tisb":[],"messages":5,"seen":3.0,"rssi":-33.3},
+    {"hex":"406471","squawk":"5222","altitude":36975,"mlat":[],"tisb":[],"messages":3,"seen":14.3,"rssi":-38.7},
+    {"hex":"3950c0","flight":"AFR39LN ","altitude":12000,"category":"A0","mlat":[],"tisb":[],"messages":4,"seen":7.0,"rssi":-33.2},
+    {"hex":"4076dd","altitude":35000,"mlat":[],"tisb":[],"messages":7,"seen":0.2,"rssi":-34.0},
+    {"hex":"4ca9eb","squawk":"0537","flight":"RYR4KT  ","lat":44.226907,"lon":0.821965,"nucp":6,"seen_pos":0.9,"altitude":37000,"vert_rate":0,"track":174,"speed":407,"category":"A3","mlat":[],"tisb":[],"messages":450,"seen":0.0,"rssi":-21.3},
+    {"hex":"400755","squawk":"2006","altitude":39000,"mlat":[],"tisb":[],"messages":30,"seen":21.2,"rssi":-33.1}
+  ]
+}
